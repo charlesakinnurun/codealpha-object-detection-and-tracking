@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Model weights are downloaded on demand; do not commit large binaries.
+models/*.pt
+models/*.onnx
+models/*.engine
+
+# Generated sample videos and media produced during runs.
+input/*.mp4
+input/*.jpg
+output/*.mp4
+output/*.txt
+output/*.jpg
+
+# Ultralytics artifacts
+runs/
+*.png
