@@ -1,0 +1,9 @@
+# Object detection: Ultralytics YOLO (pulls in PyTorch).
+ultralytics>=8.3.0
+
+# OpenCV for capture/display/video I/O and frame processing.
+opencv-python>=4.10.0
+
+# NumPy is used by the tracker and image handling (pulled via ultralytics,
+# listed explicitly for clarity).
+numpy>=1.26.0
