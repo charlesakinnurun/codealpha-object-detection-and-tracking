@@ -1,4 +1,4 @@
-# Object Detection & Tracking (Task 4)
+# Object Detection & Tracking
 
 A real-time computer-vision system that detects objects in webcam or video
 input and tracks them across frames with unique, persistent tracking IDs.
