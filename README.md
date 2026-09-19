@@ -1,4 +1,4 @@
-# Object Detection & Tracking
+# Real Time Object Detection & Multi Object Tracking
 
 A real-time computer-vision system that detects objects in webcam or video
 input and tracks them across frames with unique, persistent tracking IDs.
@@ -324,7 +324,3 @@ result          : OK
 - Multi-camera / multi-threaded capture with frame batching on GPU.
 
 ---
-
-## License
-
-MIT — see [LICENSE](LICENSE).
